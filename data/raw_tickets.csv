@@ -1,0 +1,511 @@
+ticket_id,customer,product,description,priority,status,created_at
+1,SecureTech Solutions,Dahua NVR,NVR not recording footage,Medium,Open,2026-08-23
+2,ABC Electrical,Dahua NVR,Motion detection not working,Low,In Progress,2026-07-16
+3,ABC Electrical,Akuvox Intercom,Intercom audio not working,Medium,Closed,2026-05-31
+4,XYZ Electrical,Akuvox Intercom,Unable to unlock door remotely,High,Open,2026-06-04
+5,XYZ Electrical,Akuvox Intercom,Unable to unlock door remotely,Low,Resolved,2026-08-06
+6,Northside Security,Dahua NVR,NVR not recording footage,Medium,Resolved,2026-07-27
+7,Northside Security,Ajax Alarm,Hub showing offline,Critical,Closed,2026-07-07
+8,Coastal CCTV,Dahua NVR,Motion detection not working,Medium,Open,2026-08-18
+9,Northside Security,Dahua NVR,Hard drive not overwriting,High,Open,2026-08-19
+10,Coastal CCTV,Networking,IP address conflict,Low,Resolved,2026-07-08
+11,Northside Security,Akuvox Intercom,SmartPlus app not ringing,Medium,In Progress,2026-05-06
+12,Metro Security,Akuvox Intercom,Door station not connecting,Medium,In Progress,2026-07-06
+13,ABC Electrical,Ajax Alarm,Hub showing offline,High,Closed,2026-09-04
+14,Coastal CCTV,Ajax Alarm,Hub showing offline,Medium,Closed,2026-09-08
+15,XYZ Electrical,Networking,Network connection dropping,Low,Resolved,2026-09-26
+16,Coastal CCTV,Networking,Insufficient bandwidth for cameras,Medium,In Progress,2026-07-22
+17,Northside Security,Networking,PoE switch not powering cameras,Low,In Progress,2026-10-20
+18,Metro Security,Networking,Insufficient bandwidth for cameras,Medium,Closed,2026-10-16
+19,Northside Security,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-10-30
+20,Metro Security,Ajax Alarm,Hub showing offline,Low,Open,2026-08-18
+21,Northside Security,Ajax Alarm,Alarm notifications delayed,High,Resolved,2026-09-17
+22,Brisbane Installations,Akuvox Intercom,Door station not connecting,Medium,Open,2026-07-29
+23,Northside Security,Ajax Alarm,Device not pairing with hub,High,Resolved,2026-10-28
+24,Northside Security,Akuvox Intercom,Monitor not receiving calls,Low,Closed,2026-09-01
+25,Brisbane Installations,Dahua NVR,Motion detection not working,Medium,In Progress,2026-09-30
+26,Metro Security,Ajax Alarm,Alarm notifications delayed,Critical,In Progress,2026-05-30
+27,Coastal CCTV,Ajax Alarm,Device not pairing with hub,Medium,Closed,2026-05-14
+28,Northside Security,Dahua NVR,Hard drive not overwriting,Medium,In Progress,2026-09-05
+29,ABC Electrical,Akuvox Intercom,Monitor not receiving calls,Medium,Open,2026-10-14
+30,SecureTech Solutions,Ajax Alarm,Hub showing offline,Medium,Closed,2026-06-23
+31,Reliable Installers,Akuvox Intercom,Intercom audio not working,Medium,Closed,2026-09-29
+32,Northside Security,Networking,Wireless bridge losing connection,Medium,Resolved,2026-10-08
+33,ABC Electrical,Networking,Network connection dropping,Medium,Open,2026-07-05
+34,Northside Security,Dahua NVR,Camera showing offline,Medium,In Progress,2026-08-07
+35,Brisbane Installations,Networking,Wireless bridge losing connection,Medium,In Progress,2026-07-16
+36,Northside Security,Dahua NVR,Camera showing offline,Low,Open,2026-06-14
+37,Metro Security,Dahua NVR,Hard drive not overwriting,Medium,In Progress,2026-09-20
+38,Metro Security,Networking,PoE switch not powering cameras,Low,Closed,2026-09-20
+39,Metro Security,,Device not pairing with hub,Medium,Closed,2026-08-20
+40,SecureTech Solutions,Akuvox Intercom,Door station not connecting,Critical,Open,2026-08-18
+41,Reliable Installers,Ajax Alarm,Hub showing offline,Medium,In Progress,2026-10-20
+42,Brisbane Installations,Dahua NVR,Motion detection not working,Low,Open,2026-10-12
+43,SecureTech Solutions,Akuvox Intercom,Unable to unlock door remotely,Medium,Open,2026-10-02
+44,Coastal CCTV,Dahua NVR,Camera showing offline,High,In Progress,2026-05-17
+45,Metro Security,Ajax Alarm,Motion detector false alarms,Low,Resolved,2026-08-26
+46,ABC Electrical,Networking,IP address conflict,Medium,Open,2026-10-14
+47,XYZ Electrical,Dahua NVR,Motion detection not working,Low,Resolved,2026-09-08
+48,XYZ Electrical,Dahua NVR,Hard drive not overwriting,Low,Resolved,2026-07-30
+49,Northside Security,Dahua NVR,Motion detection not working,High,In Progress,2026-08-17
+50,Brisbane Installations,Ajax Alarm,Hub showing offline,Medium,In Progress,2026-10-05
+51,XYZ Electrical,Ajax Alarm,Motion detector false alarms,Medium,Resolved,2026-05-10
+52,Metro Security,Dahua NVR,NVR not recording footage,High,Open,2026-05-23
+53,XYZ Electrical,Dahua NVR,Unable to access NVR remotely,Low,Closed,2026-09-29
+54,Northside Security,Networking,Insufficient bandwidth for cameras,Low,In Progress,2026-10-30
+55,Brisbane Installations,Dahua NVR,Unable to access NVR remotely,Medium,Open,2026-06-05
+56,Coastal CCTV,Ajax Alarm,Keypad not arming system,Medium,In Progress,2026-10-22
+57,Metro Security,Dahua NVR,Unable to access NVR remotely,Critical,In Progress,2026-06-11
+58,Metro Security,Akuvox Intercom,Door station not connecting,Low,Resolved,2026-09-17
+59,Brisbane Installations,Networking,Wireless bridge losing connection,High,Open,2026-08-25
+60,SecureTech Solutions,Networking,PoE switch not powering cameras,Low,Closed,2026-07-04
+61,SecureTech Solutions,Ajax Alarm,Keypad not arming system,Low,In Progress,2026-09-04
+62,Northside Security,Networking,IP address conflict,Critical,Resolved,2026-08-22
+63,Coastal CCTV,Ajax Alarm,Alarm notifications delayed,High,Open,2026-07-22
+64,XYZ Electrical,Ajax Alarm,Motion detector false alarms,Low,Closed,2026-06-06
+65,Northside Security,Ajax Alarm,Keypad not arming system,Medium,In Progress,2026-07-13
+66,ABC Electrical,Ajax Alarm,Hub showing offline,Medium,In Progress,2026-07-13
+67,Coastal CCTV,Ajax Alarm,Device not pairing with hub,Medium,Open,2026-10-15
+68,Metro Security,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-08-14
+69,Metro Security,Akuvox Intercom,Door station not connecting,Medium,In Progress,2026-07-17
+70,ABC Electrical,Ajax Alarm,Device not pairing with hub,Medium,In Progress,2026-06-14
+71,Coastal CCTV,Networking,Insufficient bandwidth for cameras,Medium,Closed,2026-05-30
+72,Brisbane Installations,Akuvox Intercom,Intercom audio not working,Medium,Resolved,2026-07-03
+73,XYZ Electrical,Ajax Alarm,Hub showing offline,Medium,In Progress,2026-09-02
+74,SecureTech Solutions,Akuvox Intercom,Monitor not receiving calls,Critical,Open,2026-10-21
+75,SecureTech Solutions,Networking,Network connection dropping,High,Closed,2026-05-24
+76,Brisbane Installations,Networking,Network connection dropping,Medium,Open,2026-08-31
+77,Brisbane Installations,Dahua NVR,Camera showing offline,High,Closed,2026-09-06
+78,Northside Security,Dahua NVR,Motion detection not working,Medium,Closed,2026-08-30
+79,Metro Security,Ajax Alarm,Device not pairing with hub,High,Closed,2026-05-29
+80,XYZ Electrical,Akuvox Intercom,Unable to unlock door remotely,High,Resolved,2026-07-09
+81,Reliable Installers,Networking,Wireless bridge losing connection,Low,Resolved,2026-08-23
+82,Coastal CCTV,Akuvox Intercom,SmartPlus app not ringing,High,Open,2026-08-08
+83,Metro Security,Akuvox Intercom,Door station not connecting,Medium,In Progress,2026-09-03
+84,Coastal CCTV,Dahua NVR,Camera showing offline,Medium,Closed,2026-07-20
+85,Metro Security,Dahua NVR,Hard drive not overwriting,High,Open,2026-07-17
+86,Coastal CCTV,Networking,Network connection dropping,Medium,Closed,2026-10-31
+87,SecureTech Solutions,Networking,Insufficient bandwidth for cameras,Medium,Resolved,2026-06-15
+88,Metro Security,Networking,Network connection dropping,Medium,Closed,2026-10-25
+89,ABC Electrical,Akuvox Intercom,Unable to unlock door remotely,High,Open,2026-09-30
+90,Reliable Installers,Dahua NVR,Camera showing offline,Low,Resolved,2026-09-28
+91,Reliable Installers,Networking,IP address conflict,Medium,Closed,2026-09-08
+92,Northside Security,Ajax Alarm,Device not pairing with hub,Medium,Open,2026-08-29
+93,Northside Security,Ajax Alarm,Motion detector false alarms,High,Open,2026-05-19
+94,ABC Electrical,Dahua NVR,Hard drive not overwriting,Medium,In Progress,2026-09-11
+95,Northside Security,Akuvox Intercom,Unable to unlock door remotely,Medium,In Progress,2026-05-14
+96,Brisbane Installations,Networking,IP address conflict,Medium,Open,2026-07-30
+97,ABC Electrical,Akuvox Intercom,SmartPlus app not ringing,High,Closed,2026-10-05
+98,SecureTech Solutions,Networking,Wireless bridge losing connection,Low,Resolved,2026-10-13
+99,Coastal CCTV,Dahua NVR,Motion detection not working,Medium,Resolved,2026-10-22
+100,Coastal CCTV,Dahua NVR,Motion detection not working,Low,Closed,2026-05-20
+101,Coastal CCTV,Networking,PoE switch not powering cameras,Medium,Closed,2026-07-14
+102,XYZ Electrical,Akuvox Intercom,Unable to unlock door remotely,Medium,Closed,2026-09-17
+103,XYZ Electrical,Networking,Network connection dropping,Medium,In Progress,2026-06-03
+104,SecureTech Solutions,Dahua NVR,Unable to access NVR remotely,High,Closed,2026-07-09
+105,Coastal CCTV,Ajax Alarm,Hub showing offline,Low,In Progress,2026-06-28
+106,XYZ Electrical,Ajax Alarm,Keypad not arming system,High,Resolved,2026-08-06
+107,Northside Security,Dahua NVR,Motion detection not working,Medium,Closed,2026-09-14
+108,Reliable Installers,Networking,Insufficient bandwidth for cameras,Medium,Closed,2026-09-01
+109,XYZ Electrical,Networking,PoE switch not powering cameras,Medium,In Progress,2026-10-09
+110,Reliable Installers,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-07-30
+111,Coastal CCTV,Networking,Insufficient bandwidth for cameras,High,Resolved,2026-08-09
+112,Northside Security,Ajax Alarm,Keypad not arming system,High,Resolved,2026-09-03
+113,Brisbane Installations,Dahua NVR,Motion detection not working,Low,Closed,2026-05-09
+114,XYZ Electrical,Ajax Alarm,Alarm notifications delayed,Critical,In Progress,2026-06-20
+115,Brisbane Installations,Ajax Alarm,Motion detector false alarms,Medium,In Progress,2026-08-01
+116,XYZ Electrical,Ajax Alarm,Hub showing offline,Medium,In Progress,2026-10-19
+117,XYZ Electrical,Networking,PoE switch not powering cameras,Medium,Closed,2026-10-29
+118,XYZ Electrical,Ajax Alarm,Motion detector false alarms,High,Closed,2026-10-19
+119,Reliable Installers,Dahua NVR,NVR not recording footage,Low,Open,2026-07-22
+120,XYZ Electrical,,Door station not connecting,Low,In Progress,2026-06-10
+121,SecureTech Solutions,Dahua NVR,Motion detection not working,High,Closed,2026-07-18
+122,Metro Security,Networking,Network connection dropping,Medium,Open,2026-08-17
+123,SecureTech Solutions,Dahua NVR,Hard drive not overwriting,Medium,Open,2026-05-25
+124,Northside Security,Akuvox Intercom,Door station not connecting,Low,Closed,2026-09-18
+125,XYZ Electrical,Networking,Insufficient bandwidth for cameras,Low,Resolved,2026-07-04
+126,SecureTech Solutions,Ajax Alarm,Device not pairing with hub,High,In Progress,2026-10-14
+127,SecureTech Solutions,Networking,PoE switch not powering cameras,Medium,Resolved,2026-06-15
+128,Brisbane Installations,Akuvox Intercom,Monitor not receiving calls,High,Resolved,2026-10-17
+129,XYZ Electrical,Networking,PoE switch not powering cameras,Medium,Resolved,2026-07-05
+130,ABC Electrical,Networking,Network connection dropping,High,Resolved,2026-10-12
+131,SecureTech Solutions,Ajax Alarm,Hub showing offline,Critical,Open,2026-10-09
+132,Brisbane Installations,Ajax Alarm,Alarm notifications delayed,Medium,Closed,2026-10-22
+133,Metro Security,Ajax Alarm,Motion detector false alarms,Medium,Closed,2026-06-05
+134,Metro Security,,Camera showing offline,Medium,Open,2026-08-04
+135,Reliable Installers,Akuvox Intercom,SmartPlus app not ringing,Medium,Closed,2026-07-19
+136,Coastal CCTV,Dahua NVR,Camera showing offline,Medium,Open,2026-10-10
+137,Reliable Installers,Networking,Insufficient bandwidth for cameras,Medium,In Progress,2026-11-01
+138,Reliable Installers,Ajax Alarm,Alarm notifications delayed,High,In Progress,2026-06-27
+139,XYZ Electrical,Ajax Alarm,Alarm notifications delayed,Medium,Closed,2026-09-29
+140,SecureTech Solutions,,NVR not recording footage,High,Resolved,2026-05-24
+141,Northside Security,Dahua NVR,Motion detection not working,Medium,Open,2026-07-20
+142,Brisbane Installations,Networking,PoE switch not powering cameras,Medium,Resolved,2026-05-20
+143,Reliable Installers,Ajax Alarm,Device not pairing with hub,Medium,In Progress,2026-07-01
+144,Brisbane Installations,Networking,Wireless bridge losing connection,High,Resolved,2026-06-01
+145,XYZ Electrical,Networking,IP address conflict,High,Resolved,2026-06-25
+146,Reliable Installers,Ajax Alarm,Alarm notifications delayed,High,Closed,2026-06-06
+147,Metro Security,Networking,IP address conflict,Medium,Resolved,2026-08-08
+148,Metro Security,Akuvox Intercom,Door station not connecting,Medium,Closed,2026-06-08
+149,Metro Security,Dahua NVR,Unable to access NVR remotely,Medium,In Progress,2026-07-03
+150,Coastal CCTV,Networking,PoE switch not powering cameras,High,Closed,2026-09-30
+151,ABC Electrical,Dahua NVR,Motion detection not working,High,Closed,2026-07-08
+152,XYZ Electrical,Akuvox Intercom,Monitor not receiving calls,Medium,Closed,2026-07-04
+153,Metro Security,Dahua NVR,Unable to access NVR remotely,Critical,Closed,2026-05-13
+154,SecureTech Solutions,Dahua NVR,Motion detection not working,Medium,Resolved,2026-10-15
+155,Northside Security,Akuvox Intercom,Monitor not receiving calls,High,Open,2026-07-13
+156,XYZ Electrical,Networking,Wireless bridge losing connection,High,Open,2026-05-08
+157,Coastal CCTV,Ajax Alarm,Hub showing offline,Medium,In Progress,2026-08-18
+158,Brisbane Installations,Akuvox Intercom,Intercom audio not working,Low,Open,2026-07-19
+159,SecureTech Solutions,Networking,Insufficient bandwidth for cameras,Medium,In Progress,2026-05-11
+160,XYZ Electrical,Akuvox Intercom,Unable to unlock door remotely,Medium,Open,2026-05-22
+161,Brisbane Installations,Networking,IP address conflict,Low,Resolved,2026-05-12
+162,XYZ Electrical,,Device not pairing with hub,Medium,Resolved,2026-05-09
+163,Northside Security,,Unable to unlock door remotely,Medium,Resolved,2026-07-01
+164,Metro Security,Ajax Alarm,Keypad not arming system,Medium,Open,2026-10-27
+165,Coastal CCTV,Networking,IP address conflict,Medium,In Progress,2026-09-04
+166,Northside Security,Ajax Alarm,Motion detector false alarms,High,Open,2026-05-25
+167,Coastal CCTV,Ajax Alarm,Device not pairing with hub,High,Open,2026-10-24
+168,Brisbane Installations,,Keypad not arming system,Medium,Resolved,2026-07-18
+169,Reliable Installers,Ajax Alarm,Motion detector false alarms,Critical,Resolved,2026-08-28
+170,Northside Security,Ajax Alarm,Hub showing offline,Low,In Progress,2026-07-05
+171,Northside Security,Networking,Insufficient bandwidth for cameras,High,Open,2026-07-31
+172,Reliable Installers,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-10-01
+173,SecureTech Solutions,Networking,IP address conflict,Medium,Resolved,2026-10-05
+174,Reliable Installers,Akuvox Intercom,Monitor not receiving calls,High,Resolved,2026-05-23
+175,ABC Electrical,Networking,PoE switch not powering cameras,High,Resolved,2026-09-27
+176,SecureTech Solutions,Networking,PoE switch not powering cameras,High,In Progress,2026-10-08
+177,Metro Security,Networking,Network connection dropping,Medium,In Progress,2026-07-30
+178,Metro Security,Networking,PoE switch not powering cameras,High,Resolved,2026-06-29
+179,Reliable Installers,Dahua NVR,Unable to access NVR remotely,Medium,In Progress,2026-09-07
+180,Coastal CCTV,Ajax Alarm,Hub showing offline,Medium,Resolved,2026-05-10
+181,SecureTech Solutions,Dahua NVR,Camera showing offline,Critical,Closed,2026-08-23
+182,ABC Electrical,Dahua NVR,Hard drive not overwriting,Low,Resolved,2026-05-21
+183,SecureTech Solutions,Akuvox Intercom,Door station not connecting,Low,In Progress,2026-06-10
+184,Brisbane Installations,Akuvox Intercom,Door station not connecting,High,Open,2026-08-09
+185,XYZ Electrical,Ajax Alarm,Motion detector false alarms,High,Open,2026-09-29
+186,Coastal CCTV,Dahua NVR,Hard drive not overwriting,High,In Progress,2026-10-29
+187,XYZ Electrical,Ajax Alarm,Hub showing offline,Low,Closed,2026-09-18
+188,Reliable Installers,Dahua NVR,NVR not recording footage,High,Open,2026-07-03
+189,ABC Electrical,Networking,Insufficient bandwidth for cameras,High,Resolved,2026-09-06
+190,Reliable Installers,Networking,PoE switch not powering cameras,High,Closed,2026-10-17
+191,Northside Security,Dahua NVR,Camera showing offline,High,Resolved,2026-07-11
+192,XYZ Electrical,Akuvox Intercom,Monitor not receiving calls,Medium,Resolved,2026-09-30
+193,XYZ Electrical,Networking,Insufficient bandwidth for cameras,Medium,Closed,2026-06-19
+194,SecureTech Solutions,Dahua NVR,NVR not recording footage,Medium,In Progress,2026-05-18
+195,Metro Security,Networking,IP address conflict,Medium,Open,2026-07-08
+196,XYZ Electrical,Ajax Alarm,Device not pairing with hub,Medium,In Progress,2026-08-13
+197,Northside Security,Networking,PoE switch not powering cameras,Low,Open,2026-10-09
+198,ABC Electrical,Ajax Alarm,Motion detector false alarms,Medium,Resolved,2026-06-12
+199,Metro Security,Dahua NVR,Camera showing offline,High,Open,2026-08-03
+200,Coastal CCTV,Ajax Alarm,Alarm notifications delayed,Low,In Progress,2026-08-14
+201,Northside Security,Akuvox Intercom,Unable to unlock door remotely,Medium,Resolved,2026-09-05
+202,SecureTech Solutions,,Unable to access NVR remotely,High,Open,2026-06-08
+203,XYZ Electrical,Ajax Alarm,Hub showing offline,High,Resolved,2026-09-16
+204,Brisbane Installations,Ajax Alarm,Keypad not arming system,High,Closed,2026-10-31
+205,ABC Electrical,Dahua NVR,Hard drive not overwriting,Low,In Progress,2026-05-23
+206,Coastal CCTV,Networking,Network connection dropping,Low,Resolved,2026-07-08
+207,Northside Security,Ajax Alarm,Alarm notifications delayed,High,In Progress,2026-06-02
+208,Northside Security,Akuvox Intercom,Intercom audio not working,Medium,Closed,2026-10-20
+209,Metro Security,Networking,Insufficient bandwidth for cameras,Medium,Open,2026-07-11
+210,XYZ Electrical,Ajax Alarm,Device not pairing with hub,Medium,Closed,2026-10-04
+211,Metro Security,Ajax Alarm,Hub showing offline,Critical,Open,2026-09-06
+212,SecureTech Solutions,Dahua NVR,Hard drive not overwriting,High,Resolved,2026-08-16
+213,ABC Electrical,Ajax Alarm,Keypad not arming system,Medium,Closed,2026-10-02
+214,SecureTech Solutions,Akuvox Intercom,Door station not connecting,Medium,Resolved,2026-07-27
+215,Metro Security,Dahua NVR,Camera showing offline,Low,Open,2026-10-22
+216,Metro Security,Ajax Alarm,Alarm notifications delayed,High,Closed,2026-07-15
+217,ABC Electrical,Ajax Alarm,Hub showing offline,Critical,In Progress,2026-07-21
+218,Metro Security,Networking,IP address conflict,High,In Progress,2026-10-10
+219,Northside Security,Networking,Insufficient bandwidth for cameras,Medium,Resolved,2026-07-22
+220,Brisbane Installations,Ajax Alarm,Motion detector false alarms,Low,Open,2026-08-08
+221,Brisbane Installations,Akuvox Intercom,SmartPlus app not ringing,Medium,In Progress,2026-08-04
+222,Brisbane Installations,Ajax Alarm,Motion detector false alarms,High,Open,2026-09-18
+223,Reliable Installers,Akuvox Intercom,Unable to unlock door remotely,Medium,Resolved,2026-07-06
+224,Northside Security,Ajax Alarm,Motion detector false alarms,Medium,Resolved,2026-07-12
+225,Coastal CCTV,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-10-18
+226,ABC Electrical,Networking,Network connection dropping,Medium,Resolved,2026-10-23
+227,Metro Security,Dahua NVR,NVR not recording footage,Medium,Open,2026-05-28
+228,SecureTech Solutions,Networking,Insufficient bandwidth for cameras,Medium,Closed,2026-05-19
+229,Northside Security,Akuvox Intercom,Monitor not receiving calls,High,Resolved,2026-07-09
+230,Brisbane Installations,Dahua NVR,Motion detection not working,Low,Closed,2026-05-20
+231,Brisbane Installations,Networking,Insufficient bandwidth for cameras,Medium,Resolved,2026-06-21
+232,ABC Electrical,,Network connection dropping,High,Resolved,2026-08-07
+233,Metro Security,Dahua NVR,Unable to access NVR remotely,Medium,In Progress,2026-10-08
+234,Brisbane Installations,Ajax Alarm,Hub showing offline,High,Resolved,2026-06-05
+235,Northside Security,Networking,Wireless bridge losing connection,Medium,Closed,2026-06-02
+236,Northside Security,Ajax Alarm,Motion detector false alarms,Medium,Closed,2026-05-14
+237,XYZ Electrical,Ajax Alarm,Hub showing offline,Low,In Progress,2026-08-01
+238,SecureTech Solutions,Ajax Alarm,Device not pairing with hub,Critical,In Progress,2026-09-13
+239,ABC Electrical,Dahua NVR,Unable to access NVR remotely,Medium,In Progress,2026-10-07
+240,Brisbane Installations,Networking,Wireless bridge losing connection,High,In Progress,2026-09-21
+241,Coastal CCTV,Networking,PoE switch not powering cameras,Medium,In Progress,2026-07-19
+242,Reliable Installers,Networking,Insufficient bandwidth for cameras,Medium,In Progress,2026-08-21
+243,Coastal CCTV,Ajax Alarm,Device not pairing with hub,Medium,Closed,2026-09-13
+244,Metro Security,Networking,IP address conflict,Critical,In Progress,2026-07-27
+245,Reliable Installers,Akuvox Intercom,SmartPlus app not ringing,High,Open,2026-10-19
+246,Brisbane Installations,Dahua NVR,Unable to access NVR remotely,Medium,In Progress,2026-10-11
+247,Reliable Installers,Networking,PoE switch not powering cameras,High,Open,2026-09-06
+248,Coastal CCTV,Networking,PoE switch not powering cameras,Medium,Open,2026-07-23
+249,Coastal CCTV,Ajax Alarm,Motion detector false alarms,High,Resolved,2026-10-25
+250,XYZ Electrical,Akuvox Intercom,Door station not connecting,High,Closed,2026-10-23
+251,ABC Electrical,Akuvox Intercom,Unable to unlock door remotely,High,Open,2026-07-10
+252,Metro Security,Ajax Alarm,Motion detector false alarms,Low,Resolved,2026-09-24
+253,ABC Electrical,Akuvox Intercom,SmartPlus app not ringing,Medium,Closed,2026-10-01
+254,ABC Electrical,Dahua NVR,NVR not recording footage,Medium,In Progress,2026-06-27
+255,ABC Electrical,Akuvox Intercom,SmartPlus app not ringing,Medium,In Progress,2026-07-15
+256,Northside Security,Networking,Wireless bridge losing connection,Medium,Resolved,2026-05-15
+257,ABC Electrical,Dahua NVR,Motion detection not working,Medium,Closed,2026-06-15
+258,XYZ Electrical,Dahua NVR,Camera showing offline,High,Resolved,2026-07-29
+259,Northside Security,Dahua NVR,Unable to access NVR remotely,High,Resolved,2026-09-01
+260,Coastal CCTV,Akuvox Intercom,Monitor not receiving calls,High,In Progress,2026-08-03
+261,Brisbane Installations,Networking,Network connection dropping,High,Open,2026-05-24
+262,SecureTech Solutions,Networking,PoE switch not powering cameras,Low,In Progress,2026-08-18
+263,Metro Security,Dahua NVR,Unable to access NVR remotely,Critical,Closed,2026-08-14
+264,SecureTech Solutions,Ajax Alarm,Hub showing offline,Medium,Open,2026-05-20
+265,Coastal CCTV,Ajax Alarm,Keypad not arming system,Medium,Closed,2026-10-01
+266,Brisbane Installations,Networking,Network connection dropping,Medium,Closed,2026-08-07
+267,Northside Security,Ajax Alarm,Alarm notifications delayed,High,Open,2026-08-25
+268,XYZ Electrical,Networking,Insufficient bandwidth for cameras,Medium,Open,2026-09-16
+269,Reliable Installers,Ajax Alarm,Keypad not arming system,Medium,Closed,2026-08-15
+270,Reliable Installers,Akuvox Intercom,Unable to unlock door remotely,Low,Resolved,2026-08-04
+271,ABC Electrical,Networking,IP address conflict,Low,Closed,2026-05-22
+272,Brisbane Installations,Ajax Alarm,Alarm notifications delayed,Critical,In Progress,2026-05-12
+273,Northside Security,Networking,PoE switch not powering cameras,Medium,Resolved,2026-09-30
+274,ABC Electrical,Ajax Alarm,Device not pairing with hub,Medium,Closed,2026-06-09
+275,Northside Security,Ajax Alarm,Keypad not arming system,Medium,Resolved,2026-07-11
+276,XYZ Electrical,Networking,IP address conflict,Medium,Open,2026-05-19
+277,Metro Security,Dahua NVR,Hard drive not overwriting,High,Open,2026-06-27
+278,Reliable Installers,Ajax Alarm,Keypad not arming system,Medium,Resolved,2026-05-05
+279,Brisbane Installations,Networking,Wireless bridge losing connection,High,Closed,2026-10-01
+280,Coastal CCTV,Akuvox Intercom,Unable to unlock door remotely,Medium,Open,2026-10-10
+281,Brisbane Installations,Ajax Alarm,Keypad not arming system,High,In Progress,2026-09-22
+282,SecureTech Solutions,Dahua NVR,Hard drive not overwriting,High,Open,2026-09-27
+283,Coastal CCTV,Ajax Alarm,Alarm notifications delayed,Medium,In Progress,2026-06-08
+284,Metro Security,Dahua NVR,NVR not recording footage,Critical,Closed,2026-08-14
+285,Northside Security,Networking,Network connection dropping,Low,Resolved,2026-06-07
+286,Coastal CCTV,Dahua NVR,Camera showing offline,Low,In Progress,2026-07-05
+287,ABC Electrical,Akuvox Intercom,Unable to unlock door remotely,High,In Progress,2026-06-26
+288,Coastal CCTV,Ajax Alarm,Motion detector false alarms,High,In Progress,2026-09-21
+289,Northside Security,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-08-21
+290,Northside Security,Akuvox Intercom,SmartPlus app not ringing,Medium,In Progress,2026-05-28
+291,Coastal CCTV,Akuvox Intercom,Door station not connecting,High,Open,2026-05-17
+292,XYZ Electrical,Dahua NVR,NVR not recording footage,Medium,Closed,2026-10-21
+293,XYZ Electrical,Dahua NVR,Camera showing offline,Medium,Resolved,2026-05-25
+294,Metro Security,Networking,Wireless bridge losing connection,Medium,Open,2026-05-10
+295,Metro Security,Dahua NVR,Hard drive not overwriting,Medium,In Progress,2026-07-12
+296,Coastal CCTV,Ajax Alarm,Alarm notifications delayed,High,Resolved,2026-09-26
+297,Coastal CCTV,Ajax Alarm,Device not pairing with hub,Medium,Open,2026-09-29
+298,Northside Security,Ajax Alarm,Motion detector false alarms,Medium,In Progress,2026-07-05
+299,XYZ Electrical,Akuvox Intercom,Monitor not receiving calls,High,Closed,2026-10-20
+300,Coastal CCTV,Akuvox Intercom,Door station not connecting,Low,In Progress,2026-08-10
+301,Reliable Installers,Networking,Insufficient bandwidth for cameras,High,Closed,2026-07-05
+302,Reliable Installers,Dahua NVR,NVR not recording footage,Critical,In Progress,2026-07-24
+303,XYZ Electrical,Ajax Alarm,Hub showing offline,Medium,Closed,2026-10-20
+304,Northside Security,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-10-30
+305,ABC Electrical,Ajax Alarm,Device not pairing with hub,Medium,In Progress,2026-07-31
+306,Northside Security,Ajax Alarm,Alarm notifications delayed,Medium,Closed,2026-08-20
+307,Northside Security,Ajax Alarm,Alarm notifications delayed,Low,Open,2026-05-11
+308,Coastal CCTV,Networking,IP address conflict,High,In Progress,2026-08-07
+309,ABC Electrical,Networking,Insufficient bandwidth for cameras,Low,Resolved,2026-10-22
+310,Brisbane Installations,Networking,Insufficient bandwidth for cameras,Medium,In Progress,2026-07-08
+311,Brisbane Installations,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-08-12
+312,Reliable Installers,Ajax Alarm,Alarm notifications delayed,High,Resolved,2026-06-24
+313,Coastal CCTV,Networking,PoE switch not powering cameras,Medium,Closed,2026-07-30
+314,Reliable Installers,Ajax Alarm,Hub showing offline,Medium,In Progress,2026-06-02
+315,Brisbane Installations,Dahua NVR,Motion detection not working,Medium,Closed,2026-07-02
+316,Northside Security,Akuvox Intercom,Door station not connecting,Low,Closed,2026-10-24
+317,Metro Security,Ajax Alarm,Device not pairing with hub,Medium,Closed,2026-09-24
+318,Brisbane Installations,Networking,PoE switch not powering cameras,Medium,Resolved,2026-05-05
+319,Coastal CCTV,Networking,Insufficient bandwidth for cameras,Critical,Closed,2026-07-28
+320,XYZ Electrical,Ajax Alarm,Alarm notifications delayed,Medium,In Progress,2026-08-03
+321,XYZ Electrical,Akuvox Intercom,SmartPlus app not ringing,Medium,Resolved,2026-06-12
+322,Reliable Installers,Ajax Alarm,Motion detector false alarms,Medium,Resolved,2026-05-09
+323,Metro Security,Ajax Alarm,Keypad not arming system,High,Closed,2026-10-01
+324,ABC Electrical,Ajax Alarm,Motion detector false alarms,Medium,Open,2026-08-19
+325,XYZ Electrical,Ajax Alarm,Device not pairing with hub,High,In Progress,2026-05-18
+326,XYZ Electrical,Akuvox Intercom,Intercom audio not working,Low,In Progress,2026-08-24
+327,SecureTech Solutions,Akuvox Intercom,Monitor not receiving calls,Medium,Open,2026-05-14
+328,Reliable Installers,Dahua NVR,Camera showing offline,Low,In Progress,2026-08-09
+329,Metro Security,Dahua NVR,Motion detection not working,Medium,Closed,2026-09-22
+330,Coastal CCTV,Networking,Wireless bridge losing connection,Medium,Open,2026-08-20
+331,ABC Electrical,Dahua NVR,Motion detection not working,High,In Progress,2026-09-03
+332,Metro Security,Networking,Wireless bridge losing connection,High,In Progress,2026-10-23
+333,XYZ Electrical,Ajax Alarm,Hub showing offline,Medium,Open,2026-10-30
+334,Reliable Installers,Ajax Alarm,Keypad not arming system,High,In Progress,2026-07-08
+335,Northside Security,Networking,IP address conflict,Medium,Closed,2026-09-13
+336,Coastal CCTV,Ajax Alarm,Motion detector false alarms,High,In Progress,2026-10-29
+337,Metro Security,Akuvox Intercom,Intercom audio not working,High,Resolved,2026-05-22
+338,Northside Security,Dahua NVR,Camera showing offline,Low,In Progress,2026-05-14
+339,ABC Electrical,Networking,IP address conflict,Medium,In Progress,2026-08-30
+340,XYZ Electrical,Networking,IP address conflict,Medium,Open,2026-08-09
+341,SecureTech Solutions,Ajax Alarm,Keypad not arming system,Low,Open,2026-05-08
+342,Metro Security,Networking,IP address conflict,Medium,Resolved,2026-09-22
+343,SecureTech Solutions,Dahua NVR,Unable to access NVR remotely,Medium,In Progress,2026-07-30
+344,Coastal CCTV,Networking,Wireless bridge losing connection,Medium,Closed,2026-07-08
+345,Northside Security,Akuvox Intercom,Door station not connecting,Medium,Resolved,2026-05-11
+346,ABC Electrical,Dahua NVR,Motion detection not working,High,In Progress,2026-10-04
+347,Reliable Installers,Akuvox Intercom,Door station not connecting,Low,In Progress,2026-08-10
+348,Reliable Installers,Networking,PoE switch not powering cameras,High,Closed,2026-06-24
+349,Reliable Installers,Akuvox Intercom,Intercom audio not working,Medium,Closed,2026-07-18
+350,XYZ Electrical,Ajax Alarm,Hub showing offline,High,In Progress,2026-07-23
+351,Coastal CCTV,Dahua NVR,NVR not recording footage,High,Open,2026-07-16
+352,XYZ Electrical,Dahua NVR,Camera showing offline,Medium,In Progress,2026-10-24
+353,Reliable Installers,Networking,IP address conflict,High,Closed,2026-07-27
+354,Brisbane Installations,Networking,PoE switch not powering cameras,Medium,Resolved,2026-05-11
+355,Metro Security,Dahua NVR,Hard drive not overwriting,Medium,In Progress,2026-06-17
+356,Reliable Installers,Dahua NVR,NVR not recording footage,Medium,Closed,2026-08-17
+357,Reliable Installers,Networking,Wireless bridge losing connection,Medium,Resolved,2026-08-30
+358,Metro Security,Akuvox Intercom,Monitor not receiving calls,Medium,Open,2026-10-24
+359,Northside Security,,Door station not connecting,Medium,Closed,2026-10-15
+360,Metro Security,Dahua NVR,Hard drive not overwriting,Medium,In Progress,2026-10-21
+361,XYZ Electrical,Dahua NVR,Hard drive not overwriting,Medium,Resolved,2026-06-26
+362,Brisbane Installations,Ajax Alarm,Motion detector false alarms,Critical,In Progress,2026-08-16
+363,ABC Electrical,Networking,IP address conflict,Medium,In Progress,2026-08-23
+364,ABC Electrical,Networking,Insufficient bandwidth for cameras,Critical,Closed,2026-06-28
+365,Brisbane Installations,Ajax Alarm,Device not pairing with hub,Medium,In Progress,2026-07-20
+366,XYZ Electrical,Networking,Wireless bridge losing connection,High,In Progress,2026-09-05
+367,Metro Security,Networking,PoE switch not powering cameras,Critical,In Progress,2026-06-11
+368,SecureTech Solutions,Networking,Wireless bridge losing connection,Medium,Open,2026-08-28
+369,SecureTech Solutions,Networking,IP address conflict,Low,Closed,2026-10-09
+370,SecureTech Solutions,Dahua NVR,NVR not recording footage,Medium,Resolved,2026-09-14
+371,SecureTech Solutions,Ajax Alarm,Hub showing offline,Critical,Open,2026-09-08
+372,SecureTech Solutions,Networking,Wireless bridge losing connection,Medium,In Progress,2026-05-07
+373,Reliable Installers,Ajax Alarm,Keypad not arming system,Medium,Resolved,2026-07-27
+374,Reliable Installers,Ajax Alarm,Keypad not arming system,Medium,Closed,2026-08-01
+375,Coastal CCTV,Ajax Alarm,Motion detector false alarms,Medium,In Progress,2026-07-30
+376,Metro Security,Akuvox Intercom,Monitor not receiving calls,Medium,In Progress,2026-08-27
+377,SecureTech Solutions,,Motion detector false alarms,Medium,Resolved,2026-07-27
+378,Reliable Installers,Ajax Alarm,Device not pairing with hub,Medium,Resolved,2026-05-21
+379,Reliable Installers,Akuvox Intercom,Door station not connecting,Low,Open,2026-06-15
+380,ABC Electrical,Dahua NVR,NVR not recording footage,High,Closed,2026-05-14
+381,Brisbane Installations,Akuvox Intercom,Door station not connecting,Low,Closed,2026-10-15
+382,Reliable Installers,Ajax Alarm,Hub showing offline,Medium,Open,2026-05-27
+383,Metro Security,Dahua NVR,Motion detection not working,Low,Resolved,2026-06-13
+384,Metro Security,Ajax Alarm,Hub showing offline,High,In Progress,2026-06-26
+385,Brisbane Installations,Dahua NVR,NVR not recording footage,Medium,Resolved,2026-06-20
+386,Northside Security,Ajax Alarm,Keypad not arming system,Medium,Closed,2026-07-23
+387,SecureTech Solutions,Networking,Insufficient bandwidth for cameras,Medium,Open,2026-08-31
+388,Metro Security,Dahua NVR,NVR not recording footage,Medium,Closed,2026-07-21
+389,Brisbane Installations,Dahua NVR,NVR not recording footage,Low,Closed,2026-05-06
+390,ABC Electrical,Ajax Alarm,Alarm notifications delayed,Medium,Closed,2026-10-08
+391,XYZ Electrical,Ajax Alarm,Hub showing offline,High,Open,2026-10-13
+392,SecureTech Solutions,Akuvox Intercom,SmartPlus app not ringing,Medium,Closed,2026-10-28
+393,SecureTech Solutions,Dahua NVR,Unable to access NVR remotely,Medium,Closed,2026-09-21
+394,Northside Security,Ajax Alarm,Device not pairing with hub,Medium,Resolved,2026-09-27
+395,SecureTech Solutions,Dahua NVR,NVR not recording footage,High,Resolved,2026-07-13
+396,XYZ Electrical,Networking,IP address conflict,High,Closed,2026-10-25
+397,Metro Security,Networking,Wireless bridge losing connection,Medium,Closed,2026-08-02
+398,SecureTech Solutions,Dahua NVR,Motion detection not working,High,Open,2026-08-18
+399,Brisbane Installations,Ajax Alarm,Motion detector false alarms,High,Resolved,2026-07-27
+400,ABC Electrical,Ajax Alarm,Hub showing offline,High,Closed,2026-10-09
+401,Brisbane Installations,Ajax Alarm,Keypad not arming system,Low,Closed,2026-10-06
+402,Metro Security,Networking,Insufficient bandwidth for cameras,Low,Open,2026-06-12
+403,Coastal CCTV,Ajax Alarm,Alarm notifications delayed,High,Open,2026-10-09
+404,Northside Security,Ajax Alarm,Device not pairing with hub,High,In Progress,2026-07-25
+405,Brisbane Installations,Akuvox Intercom,Unable to unlock door remotely,Medium,Resolved,2026-09-19
+406,Brisbane Installations,Networking,Wireless bridge losing connection,Medium,Closed,2026-10-16
+407,Coastal CCTV,Ajax Alarm,Device not pairing with hub,Medium,In Progress,2026-10-13
+408,SecureTech Solutions,Networking,Insufficient bandwidth for cameras,Medium,In Progress,2026-05-28
+409,Coastal CCTV,Ajax Alarm,Hub showing offline,High,Closed,2026-07-23
+410,Metro Security,Ajax Alarm,Device not pairing with hub,High,In Progress,2026-08-08
+411,SecureTech Solutions,,Keypad not arming system,Medium,In Progress,2026-05-31
+412,Reliable Installers,Networking,IP address conflict,Critical,In Progress,2026-08-19
+413,Metro Security,Ajax Alarm,Device not pairing with hub,Medium,In Progress,2026-08-22
+414,Reliable Installers,Akuvox Intercom,Intercom audio not working,High,In Progress,2026-10-26
+415,Northside Security,Networking,IP address conflict,High,Closed,2026-05-08
+416,XYZ Electrical,Networking,Wireless bridge losing connection,Medium,In Progress,2026-05-23
+417,Reliable Installers,Networking,Network connection dropping,Critical,Closed,2026-10-14
+418,Metro Security,Networking,Insufficient bandwidth for cameras,Medium,Resolved,2026-06-25
+419,Coastal CCTV,Dahua NVR,NVR not recording footage,Low,Open,2026-08-30
+420,Northside Security,Networking,IP address conflict,Low,Resolved,2026-07-14
+421,SecureTech Solutions,Akuvox Intercom,Intercom audio not working,Medium,Closed,2026-06-22
+422,Brisbane Installations,Networking,Insufficient bandwidth for cameras,Medium,Open,2026-05-09
+423,Metro Security,Networking,PoE switch not powering cameras,High,Open,2026-08-18
+424,XYZ Electrical,Dahua NVR,Hard drive not overwriting,Medium,In Progress,2026-08-04
+425,Northside Security,Networking,IP address conflict,Medium,Closed,2026-07-03
+426,ABC Electrical,,Hub showing offline,High,Open,2026-08-17
+427,Northside Security,Dahua NVR,Unable to access NVR remotely,Medium,In Progress,2026-05-20
+428,Brisbane Installations,Akuvox Intercom,Intercom audio not working,Medium,Closed,2026-09-18
+429,Brisbane Installations,Networking,Wireless bridge losing connection,Low,Closed,2026-07-21
+430,SecureTech Solutions,Networking,PoE switch not powering cameras,Medium,Closed,2026-05-28
+431,SecureTech Solutions,Networking,PoE switch not powering cameras,Medium,Open,2026-05-05
+432,Coastal CCTV,Dahua NVR,Motion detection not working,Medium,Closed,2026-09-15
+433,Reliable Installers,Dahua NVR,Unable to access NVR remotely,Medium,Resolved,2026-05-14
+434,Northside Security,Networking,Insufficient bandwidth for cameras,Medium,Closed,2026-07-24
+435,Northside Security,Akuvox Intercom,SmartPlus app not ringing,Medium,Resolved,2026-05-28
+436,Northside Security,,Hard drive not overwriting,Low,In Progress,2026-08-15
+437,Brisbane Installations,Networking,Network connection dropping,Medium,Closed,2026-06-02
+438,Brisbane Installations,Akuvox Intercom,Unable to unlock door remotely,Medium,Closed,2026-05-23
+439,Coastal CCTV,Ajax Alarm,Motion detector false alarms,High,Open,2026-09-15
+440,Brisbane Installations,Ajax Alarm,Hub showing offline,Low,Closed,2026-06-30
+441,Reliable Installers,Networking,Network connection dropping,Medium,Closed,2026-05-10
+442,ABC Electrical,Networking,Wireless bridge losing connection,High,In Progress,2026-10-11
+443,SecureTech Solutions,Ajax Alarm,Hub showing offline,Medium,In Progress,2026-08-23
+444,Northside Security,Networking,Insufficient bandwidth for cameras,Medium,Resolved,2026-06-28
+445,Reliable Installers,Ajax Alarm,Alarm notifications delayed,Medium,Closed,2026-10-22
+446,ABC Electrical,Dahua NVR,Hard drive not overwriting,Medium,Resolved,2026-08-17
+447,SecureTech Solutions,Dahua NVR,Camera showing offline,Medium,Resolved,2026-10-02
+448,Brisbane Installations,Networking,Wireless bridge losing connection,High,In Progress,2026-05-28
+449,XYZ Electrical,Dahua NVR,Motion detection not working,Medium,In Progress,2026-08-04
+450,XYZ Electrical,Ajax Alarm,Keypad not arming system,Critical,Open,2026-08-19
+451,XYZ Electrical,Akuvox Intercom,Unable to unlock door remotely,High,In Progress,2026-10-17
+452,Coastal CCTV,Akuvox Intercom,Door station not connecting,High,Closed,2026-09-25
+453,XYZ Electrical,Networking,Wireless bridge losing connection,Medium,Closed,2026-06-07
+454,Northside Security,Networking,PoE switch not powering cameras,Medium,Resolved,2026-05-23
+455,Coastal CCTV,Ajax Alarm,Device not pairing with hub,Medium,Open,2026-06-30
+456,Metro Security,Networking,IP address conflict,Medium,Closed,2026-10-16
+457,Coastal CCTV,Akuvox Intercom,Unable to unlock door remotely,High,Resolved,2026-08-25
+458,Coastal CCTV,Akuvox Intercom,Intercom audio not working,High,Open,2026-06-30
+459,Reliable Installers,Dahua NVR,NVR not recording footage,Low,In Progress,2026-05-25
+460,Metro Security,Networking,Network connection dropping,Medium,In Progress,2026-11-01
+461,Northside Security,Ajax Alarm,Motion detector false alarms,Medium,Resolved,2026-08-23
+462,Brisbane Installations,Dahua NVR,Unable to access NVR remotely,Low,Resolved,2026-05-15
+463,Northside Security,Akuvox Intercom,Unable to unlock door remotely,High,Open,2026-05-18
+464,Brisbane Installations,Akuvox Intercom,Unable to unlock door remotely,Medium,Closed,2026-10-13
+465,Coastal CCTV,Dahua NVR,NVR not recording footage,High,Closed,2026-05-07
+466,SecureTech Solutions,Akuvox Intercom,Unable to unlock door remotely,Medium,Open,2026-10-14
+467,XYZ Electrical,Dahua NVR,Unable to access NVR remotely,Low,In Progress,2026-07-30
+468,ABC Electrical,Akuvox Intercom,Monitor not receiving calls,Medium,In Progress,2026-06-19
+469,Brisbane Installations,Networking,IP address conflict,High,Closed,2026-09-08
+470,Brisbane Installations,Akuvox Intercom,Monitor not receiving calls,High,Closed,2026-10-07
+471,Brisbane Installations,Ajax Alarm,Device not pairing with hub,Medium,Open,2026-08-13
+472,XYZ Electrical,Akuvox Intercom,Intercom audio not working,High,Open,2026-06-01
+473,SecureTech Solutions,Ajax Alarm,Motion detector false alarms,High,Resolved,2026-06-22
+474,Metro Security,Dahua NVR,Hard drive not overwriting,Low,Closed,2026-06-28
+475,Coastal CCTV,,Motion detection not working,High,In Progress,2026-10-29
+476,Coastal CCTV,Networking,Insufficient bandwidth for cameras,Medium,In Progress,2026-07-17
+477,Northside Security,Networking,PoE switch not powering cameras,Low,In Progress,2026-10-28
+478,XYZ Electrical,Dahua NVR,NVR not recording footage,Medium,Closed,2026-07-23
+479,Brisbane Installations,Networking,Network connection dropping,Medium,Resolved,2026-10-11
+480,Brisbane Installations,Dahua NVR,Motion detection not working,Medium,Closed,2026-09-10
+481,Metro Security,Dahua NVR,Unable to access NVR remotely,High,In Progress,2026-05-07
+482,Metro Security,Dahua NVR,Hard drive not overwriting,Low,Open,2026-10-10
+483,ABC Electrical,Ajax Alarm,Motion detector false alarms,High,Open,2026-10-02
+484,XYZ Electrical,Akuvox Intercom,Unable to unlock door remotely,Low,In Progress,2026-08-05
+485,Coastal CCTV,Ajax Alarm,Hub showing offline,High,Resolved,2026-10-25
+486,Northside Security,Dahua NVR,Unable to access NVR remotely,Medium,Resolved,2026-06-07
+487,Brisbane Installations,Dahua NVR,Camera showing offline,Medium,Resolved,2026-06-09
+488,Northside Security,Dahua NVR,Motion detection not working,Medium,Open,2026-05-13
+489,ABC Electrical,Dahua NVR,NVR not recording footage,Medium,Closed,2026-08-31
+490,Metro Security,Akuvox Intercom,Door station not connecting,Medium,In Progress,2026-10-23
+491,Northside Security,Networking,IP address conflict,Medium,Open,2026-08-24
+492,ABC Electrical,Dahua NVR,Hard drive not overwriting,Critical,Open,2026-09-05
+493,Coastal CCTV,Networking,IP address conflict,Low,Closed,2026-08-14
+494,XYZ Electrical,Dahua NVR,Unable to access NVR remotely,Medium,Resolved,2026-09-11
+495,Reliable Installers,Akuvox Intercom,Unable to unlock door remotely,Critical,In Progress,2026-07-30
+496,Metro Security,Akuvox Intercom,Door station not connecting,Low,Resolved,2026-10-31
+497,Metro Security,Dahua NVR,Unable to access NVR remotely,High,Resolved,2026-11-01
+498,SecureTech Solutions,Dahua NVR,Hard drive not overwriting,Medium,Open,2026-06-19
+499,ABC Electrical,Akuvox Intercom,SmartPlus app not ringing,High,Closed,2026-10-09
+500,Northside Security,Ajax Alarm,Device not pairing with hub,Medium,Closed,2026-10-11
+39,Metro Security,,Device not pairing with hub,Medium,Closed,2026-08-20
+304,Northside Security,Ajax Alarm,Alarm notifications delayed,Medium,Resolved,2026-10-30
+291,Coastal CCTV,Akuvox Intercom,Door station not connecting,High,Open,2026-05-17
+32,Northside Security,Networking,Wireless bridge losing connection,Medium,Resolved,2026-10-08
+223,Reliable Installers,Akuvox Intercom,Unable to unlock door remotely,Medium,Resolved,2026-07-06
+340,XYZ Electrical,Networking,IP address conflict,Medium,Open,2026-08-09
+494,XYZ Electrical,Dahua NVR,Unable to access NVR remotely,Medium,Resolved,2026-09-11
+67,Coastal CCTV,Ajax Alarm,Device not pairing with hub,Medium,Open,2026-10-15
+122,Metro Security,Networking,Network connection dropping,Medium,Open,2026-08-17
+150,Coastal CCTV,Networking,PoE switch not powering cameras,High,Closed,2026-09-30

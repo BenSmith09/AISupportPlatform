@@ -23,15 +23,53 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("AI Support Intelligence Platform")
+
+with st.sidebar:
+    st.title("🛡️ Support Intelligence")
+
+    st.caption("AI-powered security support analytics")
+
+    st.divider()
+
+    st.markdown("### Dashboard Sections")
+    st.markdown("📊 **Overview**")
+
+    st.divider()
+
+    st.markdown("### Technology Stack")
+    st.markdown(
+        """
+        - **Python** — Data processing
+        - **Snowflake** — Data warehouse
+        - **Claude** — AI analysis
+        - **Streamlit** — Dashboard
+        """
+    )
+
+    st.divider()
+
+    st.caption("Portfolio demonstration project")
+
+
+
+st.title("🛡️ AI Support Intelligence")
+
+st.markdown(
+    "Monitor support activity, investigate recurring issues "
+    "and explore ticket data using Claude AI."
+)
 
 st.caption(
-    "Security support analytics powered by "
-    "Snowflake, Python and Claude AI"
+    "Security Support Analytics | Snowflake + Claude + Python"
 )
+
 
 st.divider()
 
+
+if st.button("🔄 Refresh Dashboard"):
+    st.cache_data.clear()
+    st.rerun()
 
 # Cache results for 5 minutes to reduce Snowflake queries
 @st.cache_data(ttl=300)
@@ -360,3 +398,16 @@ if question:
         "content": answer
     })
 
+
+st.divider()
+
+st.caption(
+    "AI Support Intelligence Platform | "
+    "Built with Python, Snowflake, Claude AI and Streamlit"
+)
+
+st.caption(
+    "Demo project using fictional support ticket data. "
+    "AI-generated recommendations should be reviewed "
+    "before being used for real technical support."
+)
