@@ -83,6 +83,67 @@ def get_ai_category_summary():
     return run_readonly_query(sql)
 
 
+
+def get_dashboard_metrics():
+    """Retrieve live support ticket dashboard metrics."""
+
+    sql = """
+        SELECT
+            (SELECT COUNT(*)
+             FROM SUPPORT_INTELLIGENCE.RAW.SUPPORT_TICKETS)
+                AS TOTAL_TICKETS,
+
+            (SELECT COUNT(*)
+             FROM SUPPORT_INTELLIGENCE.RAW.SUPPORT_TICKETS
+             WHERE UPPER(STATUS) NOT IN ('CLOSED', 'RESOLVED'))
+                AS OPEN_TICKETS,
+
+            (SELECT COUNT(*)
+             FROM SUPPORT_INTELLIGENCE.ANALYTICS.AI_CLASSIFICATIONS)
+                AS AI_CLASSIFIED
+    """
+
+    results = run_readonly_query(sql)
+    return results[0]
+
+
+
+def get_ticket_breakdown():
+    """Retrieve ticket counts by product, priority and status."""
+
+    sql = """
+        SELECT
+            PRODUCT,
+            PRIORITY,
+            STATUS,
+            COUNT(*) AS TICKET_COUNT
+        FROM SUPPORT_INTELLIGENCE.RAW.SUPPORT_TICKETS
+        GROUP BY PRODUCT, PRIORITY, STATUS
+        ORDER BY PRODUCT, PRIORITY, STATUS
+    """
+
+    return run_readonly_query(sql)
+
+
+def get_ticket_monthly_trends():
+    """Get monthly ticket counts by product and priority."""
+
+    sql = """
+        SELECT
+            DATE_TRUNC('MONTH', CREATED_AT)::DATE AS MONTH,
+            PRODUCT,
+            PRIORITY,
+            STATUS,
+            COUNT(*) AS TICKET_COUNT
+        FROM SUPPORT_INTELLIGENCE.RAW.SUPPORT_TICKETS
+        WHERE CREATED_AT IS NOT NULL
+        GROUP BY 1, 2, 3, 4
+        ORDER BY MONTH
+    """
+
+    return run_readonly_query(sql)
+
+
 if __name__ == "__main__":
     print("Testing Snowflake agent tools...\n")
 
