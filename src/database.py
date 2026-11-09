@@ -38,3 +38,31 @@ def get_connection():
             "QUERY_TAG": "ai_support_platform"
         }
     )
+
+
+def get_agent_connection():
+    """Create a read-only Snowflake connection for the AI agent."""
+
+    account = os.getenv("SNOWFLAKE_ACCOUNT")
+    user = os.getenv("SNOWFLAKE_USER")
+
+    if not account or not user:
+        raise ValueError(
+            "Missing Snowflake account or username"
+        )
+
+    return snowflake.connector.connect(
+        account=account,
+        user=user,
+        authenticator="OAUTH_AUTHORIZATION_CODE",
+        warehouse="SUPPORT_WH",
+        database="SUPPORT_INTELLIGENCE",
+        schema="ANALYTICS",
+        role="SUPPORT_AGENT_READONLY",
+        login_timeout=60,
+        session_parameters={
+            "QUERY_TAG": "ai_support_readonly_agent",
+            "STATEMENT_TIMEOUT_IN_SECONDS": 30
+        }
+    )
+
